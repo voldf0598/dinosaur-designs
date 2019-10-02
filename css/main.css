@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line height: 1.5;
+  line-height: 1.5;
 }
 
 img {
@@ -11,12 +11,13 @@ img {
 h1, h2, h3, h4 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
 
 figcaption {
   font-size: .8rem;
   font-style: italic;
-  text align: center;
+  text-align: center;
 }
 
 nav {
